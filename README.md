@@ -1,2 +1,2 @@
 # SpoilerAlert
-Project made in android studio to reduce food waste and provide healthy alternatives for struggling university students.
+Android studio app made to reduce food waste and provide healthy alternatives for struggling university students.
